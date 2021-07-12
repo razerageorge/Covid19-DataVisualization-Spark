@@ -4,7 +4,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "### Este notebook irá realizar o estudo de caso sobre a campanha nacional de vacinação de Covid-19 utilizando o cluster de big data montado via docker-compose disponível no git https://github.com/rodrigo-reboucas/docker-bigdata.git"
+    "### Projeto final Spark - Engenharia e visualização de dados Covid19 de 2020 e 2021"
    ]
   },
   {
